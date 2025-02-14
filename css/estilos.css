@@ -1,0 +1,21 @@
+body{  
+    background-color: rgb(25, 84, 151);
+}
+img {
+    width: 250px;
+    height: 250px;
+
+}
+h1{
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+}
+h2{
+    color: green;
+}
+h3{
+    color: yellow;
+}
+p{ 
+    color: rgb(0, 225, 255);
+}
